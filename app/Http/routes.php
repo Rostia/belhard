@@ -25,5 +25,5 @@ Route::controllers([
 	'auth' => 'Auth\AuthController',
 	'password' => 'Auth\PasswordController',
 ]);
-//default route 
+//default route не удалять
 Route::controller('{id?}', 'BaseController');
