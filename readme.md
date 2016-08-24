@@ -21,3 +21,10 @@ Thank you for considering contributing to the Laravel framework! The contributio
 ### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
+## Установка проекта
+
+name project belhard
+1) git clone https://github.com/Rostia/belhard.git
+2) cd domains/project
+3) composer install
