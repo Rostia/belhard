@@ -17,7 +17,7 @@ Route::get('/id/{id?}', function($id = 5){
     echo "user".$id;
 })->where('id', '[0-9]+');
 */
-Route::get('/', 'WelcomeController@index');
+Route::get('/', 'BaseController@getIndex');
 
 Route::get('home', 'HomeController@index');
 
@@ -25,3 +25,5 @@ Route::controllers([
 	'auth' => 'Auth\AuthController',
 	'password' => 'Auth\PasswordController',
 ]);
+//default route 
+Route::controller('{id?}', 'BaseController');
