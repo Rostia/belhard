@@ -30,3 +30,4 @@ name project belhard
 2) cd domains/project
 3) composer install
 Добавление новой ветки пользователь user1
+Новая строка
