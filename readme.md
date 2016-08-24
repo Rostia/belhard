@@ -1,6 +1,7 @@
 ## Laravel PHP Framework
 
 Удалил важную строчку
+2345675463524145
 [![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
 [![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
 [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
@@ -27,4 +28,10 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 name project belhard
 1) git clone https://github.com/Rostia/belhard.git
 2) cd domains/project
+<<<<<<< HEAD
 3) composer install
+=======
+3) composer install
+
+Добавление новой ветки пользователь user1
+>>>>>>> User1
