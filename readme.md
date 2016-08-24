@@ -28,10 +28,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 name project belhard
 1) git clone https://github.com/Rostia/belhard.git
 2) cd domains/project
-<<<<<<< HEAD
 3) composer install
-=======
-3) composer install
-
 Добавление новой ветки пользователь user1
->>>>>>> User1
